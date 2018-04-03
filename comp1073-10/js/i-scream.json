@@ -36,6 +36,28 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
-    }
+    },
+    {
+      "name": "Bubblegum",
+      "calories": "375",
+      "type": "Ice Cream",
+      "ingredients": [
+        "Bubblegum Candy",
+        "Bubblegum Flavored Cream"
+      ],
+      "image": "ice-cream-xtra1.svg"
+    },
+    {
+      "name": "Cookie Dough",
+      "calories": "450",
+      "type": "Ice Cream",
+      "ingredients": [
+        "chocolate chips",
+        "cookies and cream ",
+        "dough bits"
+      ],
+      "image": "ice-cream-xtra2.svg"
+    },
+
   ]
 }
